@@ -1,4 +1,5 @@
 # vuex-project
+![x-todo](https://github.com/HamidEidy/Vuex-Todo/assets/148962898/1dfe8645-1278-437a-9321-e1434f93c3bb)
 
 ## Project setup
 ```
